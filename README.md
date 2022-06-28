@@ -26,7 +26,7 @@ git add [filename]
 git commit -m 'message here'
 git push
 ```
-
+THIS IS MY FIRST EDIT
 ### Whenever you want to get updated notes:
 
 5. Grab the changes from the upstream repo
