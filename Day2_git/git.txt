@@ -37,3 +37,9 @@ Let's go over some common git commands!
 
 18. (Time permitting) Run `git pull` to bring in those changes into your local copy.
 
+“Safe sex is great sex / Better wear a latex /
+Cuz you dont want that late text / that "I think I’m late” text”
+- Lil Wayne
+
+The lyrics above have taken on new relevance in the aftermath of the recent Supreme Court
+reversal of Roe vs. Wade 
